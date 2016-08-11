@@ -1,0 +1,21 @@
+#home {
+/*   text-align: center; */
+  background: url(http://www.freehdimages.in/uploads/large/colorful-abstract-wallpaper-photos-background.jpg)center center fixed;
+/*   background-size: cover; */
+  height: 900px; 
+}
+
+.title-row {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.button-row {
+  padding-bottom: 30px;
+}
+
+p {
+  font-size: 200%;
+  color: blank;
+}
